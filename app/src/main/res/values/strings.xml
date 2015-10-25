@@ -4,4 +4,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="favoritos">Favoritos</string>
+    <string name="sem_conexao">Sem conexão no momento</string>
+    <string name="erro_geral">Erro ao obter informações do servidor</string>
+
 </resources>

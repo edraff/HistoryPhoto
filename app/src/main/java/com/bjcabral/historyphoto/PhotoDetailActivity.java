@@ -20,7 +20,5 @@ public class PhotoDetailActivity extends AppCompatActivity {
                     .commit();
         }
 
-
-
     }
 }
